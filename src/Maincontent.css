@@ -1,0 +1,9 @@
+.main{
+    color: green;
+    background-color: antiquewhite;
+    border-radius:2px;
+    font-size: 30px;
+    border: 2px solid red;
+    text-align: center;
+    margin-bottom: 40px;
+}
